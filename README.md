@@ -4,13 +4,12 @@ I'm a **developer and creative technologist** working at the intersection of **A
 
 I'm interested in creating new forms of intelligent and interactive experiences through technology.
 
-      /\_/\
-     ( o.o )
-      > ^ <
-     /     \
-    /       \
-   |         |
-   |         |
-   |  |   |  |
-   |  |   |  |
-  (___|___|___)
+<pre>
+ /\_/\
+( o.o )     < hello world.
+ > ^ <
+ /   \____
+|         |
+|  CODE   |
+|_________|
+</pre>
