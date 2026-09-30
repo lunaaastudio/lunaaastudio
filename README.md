@@ -1,6 +1,15 @@
-# Intro
 Hi! I'm Luna 👋
 
 I'm a **developer and creative technologist** working at the intersection of **AI, interactive systems, and games**. I build products and experimental projects using **Python, C#, Unity, and Java**, with experience in **front-end development**.
 
 I'm interested in creating new forms of intelligent and interactive experiences through technology.
+
+          ／＞　 フ
+         | 　_　_| 
+       ／` ミ＿xノ
+      /　　　　 |
+     /　 ヽ　　 ﾉ
+    │　　|　|　|
+／￣|　　 |　|　|
+| (￣ヽ＿_ヽ_)__)
+＼二つ
