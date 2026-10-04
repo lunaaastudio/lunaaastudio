@@ -10,6 +10,6 @@ I'm interested in creating new forms of intelligent and interactive experiences 
  > ^ <
  /   \____
 |         |
-|  CODE   |
+|  
 |_________|
 </pre>
