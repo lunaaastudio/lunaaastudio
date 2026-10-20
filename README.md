@@ -1,12 +1,12 @@
-Hi! I'm Mingyue Chen, you can also call me Luna 👋
+Hi! I'm Mingyue Chen, but you can call me Luna 👋
 
-I'm a **Full-Stack Game Developert** working at the intersection of **AI, interactive systems, and games**. I build products and experimental projects using **Python, C#, Unity, and Java**, with experience in **front-end development**.
+I'm a Full-Stack Game Developer and AI & Cloud Practitioner focused on AI-powered applications, game development, and interactive systems.
 
-I'm interested in creating new forms of intelligent and interactive experiences through technology.
+I build intelligent and interactive experiences using Python, C#, Java, Unity, Unreal Engine, and Figma, with experience in web development and cloud technologies.
 
 <pre>
  /\_/\
-( o.o )     < hello world!
+( o.o )     < hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!
  > ^ <
  /   \____
 |         |
